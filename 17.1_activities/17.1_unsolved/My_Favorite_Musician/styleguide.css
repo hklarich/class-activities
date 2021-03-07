@@ -1,9 +1,14 @@
 body {
-    background-color: rgb(65, 15, 107);
+    background-color: rgb(43, 7, 7);
+}
+
+h1, h2, h3, li {
+    color: rgb(192, 151, 151); 
 
 }
 
-h1 {
-    background-color: rgb(65, 15, 107);
-    color: aliceblue; 
+p {
+    color: seashell;
+    width: 500px;
 }
+

@@ -1,6 +1,7 @@
 nav {
     background-color: lightsteelblue;
     height:40px;
+    align-content: center;
 }
 
 .menu-item {
@@ -16,6 +17,8 @@ nav {
     width: 29%;
     height: 500px;
     background-color: linen;
+    border: 1px solid;
+    border-color: steelblue;
     float: left;
 
 }
