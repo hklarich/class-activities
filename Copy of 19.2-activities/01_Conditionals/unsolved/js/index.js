@@ -1,3 +1,0 @@
-$('.tab').on("click", function(){
-  
-});
