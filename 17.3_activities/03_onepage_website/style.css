@@ -1,25 +1,39 @@
+body {
+    margin: 0;
+    background-color: #BBDEFB;
+
+}
+
 nav {
-    background-color: lightsteelblue;
-    height:40px;
+   
+    background-color: #1E88E5;
+    height:66px;
     align-content: center;
+    font-size: 26px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+
 }
 
 .menu-item {
     display: inline-block;
+    margin-left: 5px;
     padding:20px;
     text-align: center;
     width: 50px;
     vertical-align: middle;
 
+
 }
 
 .sidebar {
-    width: 29%;
-    height: 500px;
+    width: 20%;
+    height: auto;
+    padding: 20px 25px 20px 25px;
     background-color: linen;
-    border: 1px solid;
-    border-color: steelblue;
+    border: 10px solid #1E88E5;
     float: left;
+    font-family: 'Courier New', Courier, monospace;
 
 }
 
@@ -27,4 +41,9 @@ nav {
     width: 70%;
     float: right;
 
+}
+
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 36px;
 }

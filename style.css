@@ -1,9 +1,28 @@
 body {
-    background-color: rgb(223, 242, 250);
+    background-color: #E8EAF6;
     font-family: 'Oxygen', sans-serif;
+    color: #304FFE;
+    margin: 150px;
     
 }
 
 ul {
     list-style-type: none;
 }
+
+a:link, a:visited {
+    background-color: white;
+    color: black;
+    border: 1px solid #8C9EFF;
+    border-radius: 5px;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 5px 0 5px 0;
+  }
+  
+  a:hover, a:active {
+    background-color: #eee6ff;
+    color: #311B92;
+  }
