@@ -1,14 +1,52 @@
 body {
     background-color: rgb(43, 7, 7);
+    font-size: 18px;
 }
 
-h1, h2, h3, li {
-    color: rgb(192, 151, 151); 
+.lianne {
+    display: block;
+    
+}
 
+iframe {
+    display: block;
+    margin: 0 auto;
+ }
+
+h1, h2, li {
+    color: rgb(206, 142, 142); 
+    font-family: 'Comfortaa', cursive;
+    text-align: center;
+
+}
+
+h1 {
+    font-size: 60px;
+}
+
+h2 {
+    font-size: 36px;
+}
+
+li {
+    font-size: 24;
+    list-style: none;
+}
+
+.kid {
+    width: 100%;
+    height: auto;
+    padding: 10px;
+    
+    
 }
 
 p {
-    color: seashell;
+    color: rgb(209, 174, 148);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     width: 500px;
+    text-align: left;
+    margin: 0 auto;
+    padding: 20px;
 }
 
