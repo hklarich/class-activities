@@ -1,0 +1,35 @@
+footer {
+  position: absolute;
+  width: 100%;
+  height: 60px;
+  line-height: 60px;
+  background-color: #f5f5f5;
+  margin-top: 50px;
+}
+
+h2 {
+  text-align: center;
+  padding: 75px 10px;
+}
+
+.portfolio-item {
+  background-color: lightskyblue;
+  padding:20px;
+  /* margin:5px; */
+  border: 2px solid black;
+}
+
+.cardContainer {
+  border: 1px solid black;
+}
+
+.signUp {
+  margin: 35px auto;
+  background-color: #f2f2f2;
+  border-radius: 7px;
+  padding: 25px;
+
+
+}
+
+ 
